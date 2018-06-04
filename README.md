@@ -1,4 +1,4 @@
-# YelpCamp Development Process
+# My Camp Development Process
 A full-stack Node.js project from my web dev course with RESTful routing
 
 ## Initial Setup
